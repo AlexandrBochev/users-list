@@ -2,7 +2,7 @@ import { Users } from "./components/Users/Users"
 
 const App = () => {
   return (
-    <div className="mx-auto w-96 px-4 py-8">
+    <div className="mx-auto max-w-3xl px-6 py-8">
       <Users />
     </div>
   )
