@@ -1833,28 +1833,6 @@
       "ein": "51-7727524",
       "ssn": "534-76-0952",
       "userAgent": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.66 Safari/535.11"
-    },
-    {
-      "firstName": "Александр",
-      "lastName": "Бочев",
-      "hair": {
-        "color": "Chestnut"
-      },
-      "birthDate": "2023-09-27",
-      "gender": "male",
-      "email": "abochev@gmail.com",
-      "id": 31
-    },
-    {
-      "firstName": "asdegt\\sdg",
-      "lastName": "sdgasgd",
-      "hair": {
-        "color": "Blond"
-      },
-      "birthDate": "2023-10-05",
-      "gender": "female",
-      "email": "abochsdgev@gmail.com",
-      "id": 32
     }
   ],
   "products": [],
